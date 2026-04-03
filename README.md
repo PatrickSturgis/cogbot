@@ -4,10 +4,6 @@ LLM-based cognitive interviewing for survey question pretesting.
 
 CogBot uses large language models to evaluate draft survey questions for design problems such as double-barrelled wording, presupposition failures, comprehension difficulties, and response mapping issues. It implements two complementary evaluation pipelines that can be run with any OpenAI-compatible model.
 
-For details on the method and evaluation results, see the accompanying paper:
-
-> Sturgis, P. (forthcoming). CogBot: LLM-based cognitive interviewing for survey question pretesting. *Public Opinion Quarterly*.
-
 ## Installation
 
 ```bash
